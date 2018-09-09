@@ -58,7 +58,6 @@ showNotification(context);
 if(day.equalsIgnoreCase("Sun")){
     showNotification(context);
 }
-
         } else
 
 
@@ -66,7 +65,6 @@ if(day.equalsIgnoreCase("Sun")){
             if(day.equalsIgnoreCase("Mon")){
                 showNotification(context);
             }
-
 
         } else
 
