@@ -1,4 +1,4 @@
-package playmzubair.com.myalarmandroid.notinusebythisapp;
+package playmzubair.com.myalarmandroid.extra.notinusebythisapp;
 
 import android.app.Dialog;
 import android.content.Context;
